@@ -8,7 +8,6 @@ const HomePage = () => {
       <SignedIn> 
         <SignOutButton/>
       </SignedIn>
-
       <SignedOut> 
         <SignInButton/>
       </SignedOut>
